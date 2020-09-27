@@ -7,7 +7,8 @@
   "files": [
     "LICENSE",
     "CHANGELOG",
-    "dist/nested-property.js"
+    "dist/nested-property.js",
+    "index.d.ts"
   ],
   "author": "Olivier Scherrer <pode.fr@gmail.com>",
   "contributors": [
